@@ -1,4 +1,8 @@
 package com.example.ehte6848.tts;
+/*u can use sockets */
+import java.net.*; 
+import java.io.*; 
+
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
